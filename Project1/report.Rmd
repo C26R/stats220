@@ -31,6 +31,7 @@ My GitHub repo can be found [here](https://github.com/C26R/stats220),
 and my website can be found [here](https://c26r.github.io/stats220/).
 
 **GitHub requirements (I have met):**
+
 - Repo is named stats220, and is public
 - I have two levels of headers used (one first, two second level)
 - I have an ordered list (capabilities), and one unordered one (project one)
@@ -41,7 +42,18 @@ and my website can be found [here](https://c26r.github.io/stats220/).
 ![](project_folder.jpg)
 
 **Demonstrating creativity:**
-...
+I have demonstrated creativity by focusing on the artistic elements of my websites. I have done the following:
+
+- changed the body, title, and author fonts
+- changed the text colour
+- added a border to the website and images
+- added a gradient background to the website
+- centred the images
+- added icons for design
+
+Other ways I have showed creativity are:
+
+- used image_annotate to add rainbow text to my GIF
 
 ## ⌁ Learning Reflection ⌁
 One important idea that I have learnt in this project is the idea of combining multiple different programming languages, and tools together to create a final project. For this project I have used Markdown, R (with RStudio), CSS, and GitHub all in conjunction with each other and have learnt that you can combine multiple things together and use all of them for their strengths to get a better end product! What I am curious about is how many more different modern technologies are combined in conjunction with each other in a company job setting and just how much more complicated their systems get!
