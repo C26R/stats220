@@ -1,5 +1,5 @@
 ---
-title: "Creating images with R"
+title: "⟬ Creating Images With R ⟭"
 subtitle: "with a little bit of magick"
 author: "Caleb Revill"
 output: html_document
@@ -10,27 +10,47 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE)
 ```
 
 ```{css}
-@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Noticia+Text&family=Rampart+One&display=swap');
 body {
-  font-family: 'Sono', sans-serif;
-  background-color: #ADD8E6;
+  font-family: 'Noticia Text', serif;
+  background-image: linear-gradient(#ADD8E6, white);
+  border: solid;
+  color: #00006b;
+}
+h1, h2, h3 {
+  font-family: 'Rampart One', cursive;
+  text-align: center;
+}
+h4 {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+.border {
+  border: solid;
+  border-color: #00006b;
 }
 ```
 
 
-## My meme
+## ⌁ My Meme ⌁
 This four panel meme depicts SpongeBob SquarePants a popular cartoon character reading a letter with a puzzled look. He casts the letter into a fire showing his disapporval of the message on it. My meme is supposed to be a bit of banter but in reality I am really enjoying the course!
 
-![](my_meme.png)
+<center>
+  <img src="my_meme.png" width=50% height=50% class="border" />
+</center><br />
 
 ```{r file='meme.R', eval=FALSE}
 
 ```
 
-## My animated GIF
+## ⌁ My Animated GIF ⌁
 The dancing banana GIF is a popular internet meme chracter! I have split the GIF frames and added text onto each one with disco colouring to make it more chaotic!
 
-![](my_animation.gif)
+<center>
+  <img src="my_animation.gif" width=50% height=50% class="border" />
+</center><br />
+
+
 ```{r file='animation.R', eval=FALSE}
 
 ```
